@@ -1,6 +1,6 @@
 # **Vedic Shastra API**
 
-![Vedic Shastra](https://placeholder.com/your-image-url)
+![Vedic Shastra](/assets/header.jpg)
 
 The **Vedic Shastra API** is a comprehensive and scalable API designed to provide access to a vast collection of Hindu scriptures, including the Vedas, Upanishads, Puranas, Bhagavad Gita, Ramayana, and more. It offers easy retrieval of verses, translations, and commentaries in various languages, enabling developers, scholars, and enthusiasts to interact with the rich philosophical and spiritual content of Hindu scriptures.
 
